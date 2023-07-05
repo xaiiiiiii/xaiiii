@@ -1,0 +1,132 @@
+body {
+	background-image: url(lugaw.jpg);
+	height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#logo {
+	width: 180px;
+	cursor: pointer;
+	border-radius: 100px;
+}
+.banner{
+	width: 85%;
+	margin: auto;
+	padding:40px 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.index h1 a{
+	color: whitesmoke;
+	text-decoration: none;
+	border: 6px solid whitesmoke;
+	border-radius: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	position: absolute;
+	top: 10%;
+	left: 88%;
+}
+.index h1 a:hover{
+	background-color: lightpink;
+	color: whitesmoke;
+	padding-left: 40px;
+	padding-right: 40px;
+	transition: .4s;
+	border-color: limegreen;
+}
+.type p b{
+	font-size: 100%;
+	position: absolute;
+	top: 55%;
+	left: 20%;
+}
+.type h1{
+	font-size: 25px;
+	position: absolute;
+	top: 40%;
+	left: 20%;
+}
+.type p a{
+	font-size: 100%;
+	position: absolute;
+	top: 68%;
+	left: 20%;
+}
+.index2 h1 a{
+	color: whitesmoke;
+	text-decoration: none;
+	border: 6px solid whitesmoke;
+	border-radius: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	position: absolute;
+	top: 18%;
+	left: 88%;
+}
+.index2 h1 a:hover{
+	background-color: lightpink;
+	color: whitesmoke;
+	padding-left: 40px;
+	padding-right: 40px;
+	transition: .4s;
+	border-color: limegreen;
+}
+.index3 h1 a{
+	color: whitesmoke;
+	text-decoration: none;
+	border: 6px solid whitesmoke;
+	border-radius: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	position: absolute;
+	top: 26%;
+	left: 88%;
+}
+.index3 h1 a:hover{
+	background-color: lightpink;
+	color: whitesmoke;
+	padding-left: 40px;
+	padding-right: 40px;
+	transition: .4s;
+	border-color: limegreen;
+}
+.index4 h1 a{
+	color: whitesmoke;
+	text-decoration: none;
+	border: 6px solid whitesmoke;
+	border-radius: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	position: absolute;
+	top: 34%;
+	left: 88%;
+}
+.index4 h1 a:hover{
+	background-color: lightpink;
+	color: whitesmoke;
+	padding-left: 40px;
+	padding-right: 40px;
+	transition: .4s;
+	border-color: limegreen;
+}
+.chat h1 a{
+	color: whitesmoke;
+	font-size: 20px;
+}
+.chat h1 a{
+	border: 6px solid whitesmoke;
+	border-radius: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	background-color: lightpink;
+	border-color: limegreen;
+}
+.chat h1 a{
+	position: absolute;
+	top: 33%;
+	left: 6%;
+}

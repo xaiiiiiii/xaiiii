@@ -1,0 +1,135 @@
+body {
+    background-image: url(lugaw.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#logo {
+    width: 180px;
+    cursor: pointer;
+    border-radius: 100px;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+.amen h1 a{
+    color: whitesmoke;
+    text-decoration: none;
+    border: 6px solid whitesmoke;
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    position: absolute;
+    top: 6%;
+    left: 87%;
+}
+.amen h1 a:hover{
+    background-color: lightpink;
+    color: whitesmoke;
+    padding-left: 40px;
+    padding-right: 40px;
+    transition: .4s;
+    border-color: limegreen;
+}
+.amen2 h1{
+    width: 100%;
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    font-size: 30px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    gap: 30px;
+}
+.input3{
+    position: absolute;
+    left: 15%;
+    top: 50%;
+}
+.input4{
+    position: absolute;
+    left: 15%;
+    top: 55%;
+}
+.input2{
+    position: absolute;
+    left: 15%;
+    top: 45%;
+}
+.input1{
+     position: absolute;
+    left: 15%;
+    top: 40%;
+}
+.input5{
+    position: absolute;
+    left: 15%;
+    top: 60%;
+}
+.ay{
+    position: absolute;
+    top: 65%;
+    left: 18.3%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+.ay2{
+    position: absolute;
+    top: 70%;
+    left: 18%;
+    background-color: black;
+    color: white; 
+    font-size: 17px; 
+}
+.ayy{
+    background-color: black;
+    color: white;
+}
+.ayy2{
+    background-color: black;
+    color: white;
+}
+.ayy3{
+    background-color: black;
+    color: white;
+}
+.ayy4{
+    background-color: black;
+    color: white;
+}
+.ayy5{
+    background-color: black;
+    color: white;
+}
+.mapouter{
+     position: absolute;
+    left: 53%;
+}
+.amen2 h3 {
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    font-size: 18px;
+}
+.last h1{
+    position: absolute;
+    left: 18%;
+    top: 78%;
+    border: 5px solid darkred;
+    background-color: darkred;
+
+}
+.last h3{
+    position: absolute;
+    left: 18%;
+    top: 84%;
+    border: 5px solid darkred;
+    background-color: darkred;
+}

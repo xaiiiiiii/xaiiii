@@ -1,0 +1,69 @@
+body {
+	background-image: url(lugaw.jpg);
+	height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#logo {
+    width: 180px;
+    cursor: pointer;
+    border-radius: 100px;
+}
+.yea h1 a{
+    color: whitesmoke;
+    text-decoration: none;
+    border: 6px solid whitesmoke;
+    border-radius: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    position: absolute;
+    top: 6%;
+    left: 87%;
+}
+.yea h1 a:hover{
+    background-color: lightpink;
+    color: whitesmoke;
+    padding-left: 40px;
+    padding-right: 40px;
+    transition: .4s;
+    border-color: limegreen;
+}
+#yea2{
+    width: 260px;
+    cursor: pointer;
+    border-radius: 50px;
+    position: absolute;
+    left: 39%;
+    top: 27%;
+}
+.ugh h3{
+    font-size: 25px;
+    position: absolute;
+    top: 52%;
+    left: 41%;
+}
+.ugh2 h3{
+    font-size: 25px;
+    position: absolute;
+    top: 60%;
+    left: 41%;
+}
+.ugh3 h3{
+    font-size: 25px;
+    position: absolute;
+    top: 68%;
+    left: 41%;
+}
+.ugh4 h3{
+    font-size: 25px;
+    position: absolute;
+    top: 76%;
+    left: 41%;
+}
+.ugh5 h3{
+    font-size: 25px;
+    position: absolute;
+    top: 86%;
+    left: 41%;
+}
